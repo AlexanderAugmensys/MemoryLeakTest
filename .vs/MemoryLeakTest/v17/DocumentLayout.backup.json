@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|c:\\users\\alexanderruhdorfer\\source\\repos\\memoryleaktest\\newpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|solutionrelative:newpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|c:\\users\\alexanderruhdorfer\\source\\repos\\memoryleaktest\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|c:\\users\\alexanderruhdorfer\\source\\repos\\memoryleaktest\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|solutionrelative:appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|c:\\users\\alexanderruhdorfer\\source\\repos\\memoryleaktest\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|solutionrelative:viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|c:\\users\\alexanderruhdorfer\\source\\repos\\memoryleaktest\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0499180C-B393-4DE1-8864-5DC161F6195F}|MemoryLeakTest.csproj|solutionrelative:navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\AppService.cs",
+              "RelativeDocumentMoniker": "AppService.cs",
+              "ToolTip": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\AppService.cs",
+              "RelativeToolTip": "AppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:48:50.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavigationManager.cs",
+              "DocumentMoniker": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\NavigationManager.cs",
+              "RelativeDocumentMoniker": "NavigationManager.cs",
+              "ToolTip": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\NavigationManager.cs",
+              "RelativeToolTip": "NavigationManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:40:20.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:00:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\NewPage.xaml",
+              "RelativeDocumentMoniker": "NewPage.xaml",
+              "ToolTip": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\NewPage.xaml",
+              "RelativeToolTip": "NewPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T08:33:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\AlexanderRuhdorfer\\source\\repos\\MemoryLeakTest\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-11T10:55:40.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

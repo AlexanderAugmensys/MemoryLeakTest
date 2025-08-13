@@ -1,0 +1,19 @@
+﻿<ContentPage
+    x:Class="MemoryLeakTest.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MemoryLeakTest"
+    Title="MainPage">
+    <VerticalStackLayout Padding="30" Spacing="20">
+        <Button Command="{Binding NavigateTo, Source={x:Static local:AppService.NavigationManager}}" Text="Navigate to NewPage with Button" />
+        <Grid BackgroundColor="LightGray" HeightRequest="100">
+            <Grid.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding NavigateTo, Source={x:Static local:AppService.NavigationManager}}" />
+            </Grid.GestureRecognizers>
+            <Label
+                HorizontalOptions="Center"
+                Text="Navigate to NewPage with TapGestureRecognizer"
+                VerticalOptions="Center" />
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>
